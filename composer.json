@@ -44,6 +44,7 @@
         "zendframework/zend-stdlib": "2.5.1"
     },
     "suggest": {
+        "league/oauth2-google",
         "league/oauth2-google": "Needed for Google XOAUTH2 authentication"
     },
     "autoload": {
